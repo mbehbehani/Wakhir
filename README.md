@@ -15,9 +15,9 @@ Key features:
 
 2- The user will be given a unique ID shared with the authorities (ministry of health).
 
-2- At any time a user can update his/her own health status (symptoms, Corona virus test result, travel history, etc). Alternatively, the status can be changed by the admin (ministry) based on tests.
+3- At any time a user can update his/her own health status (symptoms, Corona virus test result, travel history, etc). Alternatively, the status can be changed by the admin (ministry) based on tests.
 
-3- As users move close to each other (WiFi/Bluetooth distance)  their devices will detect each other and communicate via short messages in the background using Bluetooth or WiFi Direct (P2P) (No Internet is needed). Discovered users will be shown to the user without revealing their personal identities (Only showing gender, skin colour, physical shape, nationality, glasses, etc) so they can be identified among the discovered users.
+4- As users move close to each other (WiFi/Bluetooth distance)  their devices will detect each other and communicate via short messages in the background using Bluetooth or WiFi Direct (P2P) (No Internet is needed). Discovered users will be shown to the user without revealing their personal identities (Only showing gender, skin colour, physical shape, nationality, glasses, etc) so they can be identified among the discovered users.
 
 4- Each user’s device stores a list (tree) of all interactions he/she had over a defined period (14 days?) which will be forwarded to users approaching by in the future and may be uploaded to the App server (managed by authorities). 
 
@@ -42,17 +42,12 @@ Key features:
 Extra features:
 
 1- The app will send frequent hand-wash reminders to the user based on their interactions and movements. 
-
 2- A smart watch version can detect if a user raised his hand to his face and reminds the user to wash hands immediately. 
-
 3- User’s travel/commuting status is continuously monitored by the app using GPS and P2P interactions and points are earned accordingly. Users with high scores may be rewarded (creating incentives). 
-
-
 
 
 Target Release Date: 
 As soon as possible!
-
 
 
 Required Man power: 
@@ -60,14 +55,7 @@ Managers, software analysts, data base experts, software engineers, developers, 
 
 
 
-
-
-
-
-
-
 User Requirements
-
 
 General requirements:
 
